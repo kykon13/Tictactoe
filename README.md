@@ -1,2 +1,1 @@
-# Tictactoe
-Simple game made in C++
+install c++ builder -> launch tictactoe.exe
